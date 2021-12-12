@@ -13,4 +13,4 @@ EXPOSE 8080
 
 # Run the web service on container startup.
 
-ENTRYPOINT ["target/release/blogsystem"]
+ENTRYPOINT ["target/release/cloud_run_test"]
